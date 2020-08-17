@@ -31,14 +31,11 @@ Create an application that an employee can use to generate a random password bas
 >  *THEN* a password is generated that matches the selected criteria <br>
 >WHEN the password is generated <br>
 >  *THEN* the password is either displayed in an alert or written to the page <br>
-  
-## Challenge Result
-IN CONSTRUCTION
 
 ### Refactored Webpage Screenshot
-![Website Screenshot]("")
+![Website Screenshot](https://github.com/marioessig/password-generator/blob/master/Develop/Images/PasswordGen_Screenshot.gif)
 
 ### Links:
-[Deployed Application URL]("")
+[Deployed Application URL](https://marioessig.github.io/password-generator/)
 
-[GitHub Repository URL]("")
+[GitHub Repository URL](https://github.com/marioessig/password-generator)

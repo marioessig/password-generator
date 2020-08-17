@@ -36,7 +36,7 @@ Create an application that an employee can use to generate a random password bas
 IN CONSTRUCTION
 
 ### Refactored Webpage Screenshot
-![Website Screenshot]("")
+![Website Screenshot]("https://github.com/marioessig/password-generator/blob/master/Develop/Images/PasswordGen_Screenshot.gif")
 
 ### Links:
 [Deployed Application URL]("")

@@ -33,9 +33,9 @@ Create an application that an employee can use to generate a random password bas
 >  *THEN* the password is either displayed in an alert or written to the page <br>
 
 ### Refactored Webpage Screenshot
-![Website Screenshot]("https://github.com/marioessig/password-generator/blob/master/Develop/Images/PasswordGen_Screenshot.gif")
+![Website Screenshot](https://github.com/marioessig/password-generator/blob/master/Develop/Images/PasswordGen_Screenshot.gif)
 
 ### Links:
-[Deployed Application URL]("https://marioessig.github.io/password-generator/")
+[Deployed Application URL](https://marioessig.github.io/password-generator/)
 
-[GitHub Repository URL]("https://github.com/marioessig/password-generator")
+[GitHub Repository URL](https://github.com/marioessig/password-generator)
